@@ -2,7 +2,7 @@ package com.luxiu.java.base.wuxing;
 
 /**
  * <p>
- * Description:
+ * Description: 测试八字与五行版本1
  * </p>
  *
  * @author luguangdong
@@ -12,8 +12,8 @@ package com.luxiu.java.base.wuxing;
  * @company https://www.singlewindow.cn/
  */
 public class WuXingApp2 {
-    private static final String TG[] = {"甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"};
-    private static final String DZ[] = {"子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"};
+    private static final String[] TG = {"甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"};
+    private static final String[] DZ = {"子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"};
 
     public static void main(String[] args) {
         // 公元后某年

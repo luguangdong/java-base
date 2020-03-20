@@ -2,7 +2,7 @@ package com.luxiu.java.base.wuxing;
 
 /**
  * <p>
- * Description: 八字与五行
+ * Description: 测试八字与五行版本1
  * </p>
  *
  * @author luguangdong
