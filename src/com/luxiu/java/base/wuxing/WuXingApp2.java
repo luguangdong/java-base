@@ -17,15 +17,15 @@ public class WuXingApp2 {
 
     public static void main(String[] args) {
         // 公元后某年
-        int year = 2020;
+        int year = 1992;
         // 农历某月
-        int nMonth = 1;
+        int nMonth = 6;
         // 阳历某月
-        int yMonth = 2;
+        int yMonth = 6;
         // 阳历某日
-        int day = 10;
+        int day = 19;
         // 时间
-        int time = 15;
+        int time = 8;
 
         // 获取干支年
         String gzYear = getYear(year);
